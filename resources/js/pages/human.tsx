@@ -1,6 +1,4 @@
 import {AuthenticatedLayout} from "@/layouts"
-import {Main} from '@/components/layout/main'
-import {Button} from '@/components/ui/button'
 
 export default function Dashboard() {
     return (
